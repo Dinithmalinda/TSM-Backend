@@ -1,0 +1,20 @@
+{
+  "name": "nodejsserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aedes": "^0.45.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "lwm2m": "^0.13.0",
+    "nodemon": "^2.0.9",
+    "pg": "^8.5.1"
+  }
+}
